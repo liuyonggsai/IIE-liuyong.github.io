@@ -4,12 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 <b>[Approximate Kernel Selection with Strong Approximate Consistency](http://IIE-liuyong.github.io/publications/aaai2019-aks)</b> <br>
-Lizhong Ding, <b>Yong Liu</b>, Shizhong Liao, Peng Yang, Yu Li, Yijie Pan, Chao Huang, Ling Shao, Xin Gao. <i>Proceedings of the 33th International Joint Conference on Artificial Intelligence (AAAI), accept</i>.
+Lizhong Ding, <b>Yong Liu</b>, Shizhong Liao, Peng Yang, Yu Li, Yijie Pan, Chao Huang, Ling Shao, Xin Gao. <i>Proceedings of the 33th International Joint Conference on Artificial Intelligence (AAAI), 2019, accept</i>.
 
-<b>[Linear Kernel Tests via Empirical Likelihood for High Dimensional Data](http://IIE-liuyong.github.io/publications/aaai2019-lkt)</b> <br>Lizhong Ding, Zhi Liu, Yu Li, Shizhong Liao, <b>Yong Liu</b>, Peng Yang, Ge Yu, Ling Shao, Xin Gao. <i>Proceedings of the 33th International Joint Conference on Artificial Intelligence (AAAI), accept</i>.
+<b>[Linear Kernel Tests via Empirical Likelihood for High Dimensional Data](http://IIE-liuyong.github.io/publications/aaai2019-lkt)</b> <br>Lizhong Ding, Zhi Liu, Yu Li, Shizhong Liao, <b>Yong Liu</b>, Peng Yang, Ge Yu, Ling Shao, Xin Gao. <i>Proceedings of the 33th International Joint Conference on Artificial Intelligence (AAAI), 2019, accept</i>.
 
 <b>[Multi-Class Learning: From Theory to Algorithm](http://IIE-liuyong.github.io/publications/nips2018-mc)</b> <br>
-Jian Li, <b>Yong Liu*</b>, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <i>Advances in Neural Information Processing Systems 31 (NIPS 2018), accept</i>.
+Jian Li, <b>Yong Liu*</b>, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <i>Advances in Neural Information Processing Systems 31 (NIPS), 2018, accept</i>.
 
 <b>[Fast Cross-Validation](http://IIE-liuyong.github.io/publications/IJCAI2018-fcv)</b><br>
 Li-Zhong Ding, Shizhong Liao, <b>Yong Liu</b>, Peng Yang, Xin Gao. <i>Proceedings of the 32th International Joint Conference on Artificial Intelligence (AAAI), 2910-2917, 2018</i>
