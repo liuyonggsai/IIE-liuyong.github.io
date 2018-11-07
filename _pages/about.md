@@ -18,5 +18,7 @@ redirect_from:
 
 
 # Recent News
+* Nov 1, 2018. A paper titled "Approximate Kernel Selection with Strong Approximate Consistency" was accepted at [AAAI 2019](https://aaai.org/Conferences/AAAI-19/).
+* Nov 1, 2018. A paper titled "Linear Kernel Tests via Empirical Likelihood for High Dimensional Data" was accepted at [AAAI 2019](https://aaai.org/Conferences/AAAI-19/).
 * Sep 5, 2018. A paper titled "Multi-Class Learning: From Theory to Algorithm" was accepted at [NIPS 2018](https://nips.cc/Conferences/2018).
 * Jan 20, 2018. A paper titled "Fast Cross Validation" was accepted at [IJCAI 2018](http://www.ijcai-18.org/).
