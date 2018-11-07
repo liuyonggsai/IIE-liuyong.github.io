@@ -14,7 +14,7 @@ redirect_from:
 
 * I received my Bachelor's in Hebei University of Technology, 2009, Tianjin, China; I received my Master's and Ph.D Degrees in Tianjin University, 2016, Tianjin， China; I currently an assistant professor at [Information of Institute Engineering](https://iie.ac.cn/) [Chinese Academy of Sciences](https://ucas.ac.cn/).
 
-* My research interests lie in the general area of machine learning, particularly in large scale machine learning, kernel method, model selection.
+* My research interests lie in the general area of machine learning, particularly in large scale machine learning, kernel method and model selection.
 
 
 # Recent News
