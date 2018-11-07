@@ -14,3 +14,15 @@ Jian Li, <b>Yong Liu*</b>, Hailun Lin, Yinliang Yue, Weiping Wang. <i>In Procedi
 
 <b>[Granularity Selection for Cross-Validation of SVM](http://IIE-liuyong.github.io/publications/IS2017-gs)</b><br>
 <b>Yong Liu</b>, Shizhong Liao.<i>Information Sciences, 378:475-483, 2017</i>
+
+<b>[Learning Entity and Relation Embeddings for Knowledge Resolution](http://IIE-liuyong.github.io/publications/PCS-le)</b><br>
+Hailun Lin, <b>Yong Liu*</b>, Weiping Wang, Yinliang Yue, Zheng Lin<i>Procedia Computer Science, 108:345-354, 2017</i>
+
+<b>[]()</b><br>
+<i> </i>
+
+<b>[]()</b><br>
+<i> </i>
+
+<b>[]()</b><br>
+<i> </i>
