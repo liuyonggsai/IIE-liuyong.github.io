@@ -45,7 +45,7 @@ Hailun Lin, <b>Yong Liu*</b>, Weiping Wang, Yinliang Yue, Zheng Lin. <i> Procedi
 <b>[Learning Kernels with Upper Bounds of Leave-One-Out error](IIE-liuyong.github.io/publications/cikm2011-loo)</b><br>
 <b>Yong Liu</b>, Shizhong Liao, Yuexian Hou. <i>Proceedings of the 20th ACM international Conference on Information and Knowledge Management (CIKM), 2205-2208</i>
 
-<b>[Error Analysis for Vector-Valued Regularized Least-Squares Algorithm]</b><br>
+<b>[Error Analysis for Vector-Valued Regularized Least-Squares Algorithm]()</b><br>
 <i> </i>
 
 <b>[]()</b><br>
