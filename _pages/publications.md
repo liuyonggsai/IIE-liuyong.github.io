@@ -18,8 +18,8 @@ Jian Li, <b>Yong Liu*</b>, Hailun Lin, Yinliang Yue, Weiping Wang. <i>In Procedi
 <b>[Learning Entity and Relation Embeddings for Knowledge Resolution](http://IIE-liuyong.github.io/publications/PCS-le)</b><br>
 Hailun Lin, <b>Yong Liu*</b>, Weiping Wang, Yinliang Yue, Zheng Lin<i>Procedia Computer Science, 108:345-354, 2017</i>
 
-<b>[]()</b><br>
-<i> </i>
+<b>[Generalization Analysis for Ranking Using Integral Operator](http://IIE-liuyong.github.io/publications/aaai2017-ga)</b><br>
+<b>Yong Liu</b>, Shizhong Liao, Hailun Lin, Yinliang Yue, Weiping Wang<i>Proceedings of the 27th International Joint Conference on Artificial Intelligence (AAAI), 2272-2279, 2017</i>
 
 <b>[]()</b><br>
 <i> </i>
