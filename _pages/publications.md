@@ -62,3 +62,4 @@ Hailun Lin, <b>Yong Liu*</b>, Weiping Wang, Yinliang Yue, Zheng Lin. <i> Procedi
 
 <b>[基于支持向量机泛化误差界的多核学习方法]()</b><br>
 <b>刘勇</b>, 廖士中. <i>武汉大学学报(理学版), 58(2), 2012 </i>
+
