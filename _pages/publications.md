@@ -27,23 +27,32 @@ Hailun Lin, <b>Yong Liu*</b>, Weiping Wang, Yinliang Yue, Zheng Lin. <i> Procedi
 <b>[Eigenvalues Ratio for Kernel Selection of Kernel Methods](IIE-liuyong.github.io/publications/aaai2015-kr)</b><br>
 <b>Yong Liu</b>, Shizhong Liao. <i>Proceedings of the 25th International Joint Conference on Artificial Intelligence (AAAI), 2814-2820, 2015</i>
 
-<b>[Efficient approximation of cross-validation for kernel methods using Bouligand influence function](IIE-liuyong.github.io/publications/icml2014-bif)</b><br>
+<b>[Efficient Approximation of Cross-Validation for Kernel Methods using Bouligand influence function](IIE-liuyong.github.io/publications/icml2014-bif)</b><br>
 <b>Yong Liu</b>, Shali Jiang, Shizhong Liao. <i>Proceedings of the 31st International Conference on Machine Learning (ICML), 324-332, 2014</i>
 
-<b>[Preventing over-fitting of cross-validation with kernel stability](IIE-liuyong.github.io/publications/ecml2014-ks)</b><br>
+<b>[Preventing Over-Fitting of Cross-Validation with Kernel Stability](IIE-liuyong.github.io/publications/ecml2014-ks)</b><br>
 <b>Yong Liu</b>, Shizhong Liao. <i>Proceedings of the Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML), 290-305, 2014</i>
 
-<b>[Kernel selection with spectral perturbation stability of kernel matrix](IIE-liuyong.github.io/publications/scis-ks)</b><br>
+<b>[Kernel Selection with Spectral Perturbation Stability of Kernel Matrix](IIE-liuyong.github.io/publications/scis-ks)</b><br>
 <b>Yong Liu</b>, Shizhong Liao. <i>Science China Information Sciences 57(11):1-10, 2014</i>
 
 <b>[基于近似高斯核显式描述的大规模SVM求解](IIE-liuyong.github.io/publications/yf-svm)</b><br>
 <b>刘勇</b>, 江沙里, 廖士中. <i> 计算机研究与发展, 51(10):2171-2177, 2014</i>
 
+<b>[基于积分算子空间显式描述的框架核选择方法](IIE-liuyong.github.io/publications/zgkx-fc)</b><br>
+<b>刘勇</b>, 廖士中. <i>中国科学:信息科学, 46(2):165-178, 2016</i>
+
+<b>[Learning Kernels with Upper Bounds of Leave-One-Out error](IIE-liuyong.github.io/publications/cikm2011-loo)</b><br>
+<b>Yong Liu</b>, Shizhong Liao, Yuexian Hou. <i>Proceedings of the 20th ACM international Conference on Information and Knowledge Management (CIKM), 2205-2208</i>
+
+<b>[Error Analysis for Vector-Valued Regularized Least-Squares Algorithm]</b><br>
+<i> </i>
+
 <b>[]()</b><br>
 <i> </i>
-<br>
+
 <b>[]()</b><br>
 <i> </i>
-<br>
+
 <b>[]()</b><br>
 <i> </i>
