@@ -42,20 +42,23 @@ Hailun Lin, <b>Yong Liu*</b>, Weiping Wang, Yinliang Yue, Zheng Lin. <i> Procedi
 <b>[Eigenvalues Perturbation of Integral Operator for Kernel Selection](IIE-liuyong.github.io/publications/cikm2011-ep)</b><br>
 <b>Yong Liu</b>, Shali Jiang, Shizhong Liao. <i>Proceedings of the 22nd ACM international Conference on Information and Knowledge Management (CIKM), 2189-2198, 2013</i>
 
+<b>[An Explicit Description of the Extended Gaussian Kernel]()</b><br>
+<b>Yong Liu</b>, Shizhong Liao. <i>Pacific-Asia Conference on Knowledge Discovery and Data Mining, 88-99, 2012</i>(<b>Best Paper</b>)
+
 <b>[Learning Kernels with Upper Bounds of Leave-One-Out error](IIE-liuyong.github.io/publications/cikm2011-loo)</b><br>
 <b>Yong Liu</b>, Shizhong Liao, Yuexian Hou. <i>Proceedings of the 20th ACM international Conference on Information and Knowledge Management (CIKM), 2205-2208, 2011</i>
 
-<b>[An Explicit Description of the Extended Gaussian Kernel]()</b><br>
-<b>Yong Liu</b>, Shizhong Liao. <i>Pacific-Asia Conference on Knowledge Discovery and Data Mining, 88-99, 2012</i>(<b>Best Paper<\b>)
+<b>[An Error Bound for Eigenvalues of Graph Laplacian with Bounded Kernel Function]()</b><br>
+<b>Yong Liu</b>, Shizhong Liao. <i>Proceedings of Seventh International Conference on Computational Intelligence and Security (CIS), 435-440, 2011</i>
 
-<b>[]()</b><br>
-<i> </i>
-
-<b>[]()</b><br>
-<i> </i>
+<b>[Kernel Construction via Generalized Eigenvector Decomposition]()</b><br>
+<b>Yong Liu</b>, Shizhong Liao. <i>Foundations of Intelligent Systems, 191-200, 2011 </i>
 
 <b>[基于近似高斯核显式描述的大规模SVM求解](IIE-liuyong.github.io/publications/yf-svm)</b><br>
 <b>刘勇</b>, 江沙里, 廖士中. <i> 计算机研究与发展, 51(10):2171-2177, 2014</i>
 
 <b>[基于积分算子空间显式描述的框架核选择方法](IIE-liuyong.github.io/publications/zgkx-fc)</b><br>
 <b>刘勇</b>, 廖士中. <i>中国科学:信息科学, 46(2):165-178, 2016</i>
+
+<b>[基于支持向量机泛化误差界的多核学习方法]()</b><br>
+<b>刘勇</b>, 廖士中. <i>武汉大学学报(理学版), 58(2), 2012 </i>
