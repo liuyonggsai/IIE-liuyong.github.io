@@ -11,3 +11,6 @@ Jian Li, <b>Yong Liu*</b>, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <i>A
   
 <b>[Efficient kernel selection via spectral analysis](http://IIE-liuyong.github.io/publications/ijcai2017-sm)</b> <br>
 Jian Li, <b>Yong Liu*</b>, Hailun Lin, Yinliang Yue, Weiping Wang. <i>In Procedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI), 2124-2130, 2017</i>.
+
+<b>[Granularity selection for cross-validation of SVM](http://IIE-liuyong.github.io/publications/IS2017-gs)</b><br>
+<b>Yong Liu</b>, Shizhong Liao.<i>Information Sciences, 378:475-483, 2017</i>
