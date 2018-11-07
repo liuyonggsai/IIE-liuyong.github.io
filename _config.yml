@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jian Li"
+title                    : "Yong Liu"
 title_separator          : "-"
-name                     : &name "Jian Li"
+name                     : &name "Yong Liu"
 description              : &description "PhD student, Institute of Information Engineering, Chinese Academy of Sciences"
 url                      : https://superlj666.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -77,21 +77,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jian Li"
+  name             : "Yong Liu"
   avatar           : "jianli.jpg"
-  bio              : "PhD student, Institute of Information Engineering, Chinese Academy of Sciences"
+  bio              : "an assistant professor at Institute of Information Engineering, Chinese Academy of Sciences"
   location         : "Beijing, China"
-  employer         : 
+  employer         : "Institute of Information Engineering, Chinese Academy of Sciences"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=IAJpTqYAAAAJ"
   email            : "me@lijian.ac.cn"
-  uri              : 
+  uri              : "https://scholar.google.com/citations?user=vVhmzbAAAAAJ&hl=zh-CN"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         : "profile.php?id=100008003527316"
   foursquare       :
-  github           : "superlj666"
+  github           : "IIE-liuyong"
   google_plus      :
   keybase          :
   instagram        : 
