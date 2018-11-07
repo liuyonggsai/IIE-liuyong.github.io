@@ -24,6 +24,9 @@ Hailun Lin, <b>Yong Liu*</b>, Weiping Wang, Yinliang Yue, Zheng Lin. <i> Procedi
 <b>[Infinite Kernel Learning: Generalization Bounds and Algorithms](http://IIE-liuyong.github.io/publications/aaai2017-ikl)</b><br>
 <b>Yong Liu</b>, Shizhong Liao, Hailun Lin, Yinliang Yue, Weiping Wang. <i>Proceedings of the 27th International Joint Conference on Artificial Intelligence (AAAI), 2280-2286, 2017</i>
 
+
+
+
 <b>[Eigenvalues Ratio for Kernel Selection of Kernel Methods](IIE-liuyong.github.io/publications/aaai2015-kr)</b><br>
 <b>Yong Liu</b>, Shizhong Liao. <i>Proceedings of the 25th International Joint Conference on Artificial Intelligence (AAAI), 2814-2820, 2015</i>
 
