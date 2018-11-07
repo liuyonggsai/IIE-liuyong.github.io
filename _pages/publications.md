@@ -14,7 +14,7 @@ Jian Li, <b>Yong Liu*</b>, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <i>A
 <b>[Fast Cross-Validation](http://IIE-liuyong.github.io/publications/IJCAI2018-fcv)</b><br>
 Li-Zhong Ding, Shizhong Liao, <b>Yong Liu</b>, Peng Yang, Xin Gao. <i>Proceedings of the 32th International Joint Conference on Artificial Intelligence (AAAI), 2910-2917, 2018</i>
 
-<b>[Randomized Kernel Selection With Spectra of Multilevel Circulant Matrices](http://IIE-liuyong.github.io/publications/AAAI2018-rks) Li-Zhong Ding, Shizhong Liao, <b>Yong Liu</b>, Peng Yang, Xin Gao. <i>Proceedings of the 26th International Joint Conference on Artificial Intelligence (AAAI), 2497-2503, 2018</i>
+<b>[Randomized Kernel Selection With Spectra of Multilevel Circulant Matrices](http://IIE-liuyong.github.io/publications/AAAI2018-rks) </b><br> Li-Zhong Ding, Shizhong Liao, <b>Yong Liu</b>, Peng Yang, Xin Gao. <i>Proceedings of the 26th International Joint Conference on Artificial Intelligence (AAAI), 2497-2503, 2018</i>
 
 <b>[Efficient Kernel Selection via Spectral Analysis](http://IIE-liuyong.github.io/publications/ijcai2017-sm)</b><br>
 Jian Li, <b>Yong Liu*</b>, Hailun Lin, Yinliang Yue, Weiping Wang. <i>In Procedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI), 2124-2130, 2017</i>.
