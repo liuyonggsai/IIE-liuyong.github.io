@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 title                    : "Yong Liu"
 title_separator          : "-"
 name                     : &name "Yong Liu"
@@ -81,7 +81,7 @@ author:
   avatar           : "littleyongliu.jpg"
   bio              : "an assistant professor at Institute of Information Engineering, Chinese Academy of Sciences"
   location         : "Beijing, China"
-  employer         : "Institute of Information Engineering, CAS"
+  employer         : "Institute of Information Engineering, CAS <br> 中国科学院信息工程研究所"
   googlescholar    : "https://scholar.google.com/citations?user=vVhmzbAAAAAJ&hl=zh-CN"
   email            : "liuyong@iie.ac.cn"
   uri              : 
