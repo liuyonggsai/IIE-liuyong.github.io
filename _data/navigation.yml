@@ -21,7 +21,7 @@ main:
   #- title: "Blogs"
   #  url: /year-archive/
 
-  - title: "People"
+  - title: "My Students"
     url: /people/ 
     
   - title: "Contact"
