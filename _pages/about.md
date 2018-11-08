@@ -16,7 +16,6 @@ redirect_from:
 
 * My research interests lie in the general area of machine learning, particularly in large scale machine learning, kernel method and model selection.
 
-
 # Recent News
 * Nov 1, 2018. A paper titled "Approximate Kernel Selection with Strong Approximate Consistency" was accepted at [AAAI 2019](https://aaai.org/Conferences/AAAI-19/).
 * Nov 1, 2018. A paper titled "Linear Kernel Tests via Empirical Likelihood for High Dimensional Data" was accepted at [AAAI 2019](https://aaai.org/Conferences/AAAI-19/).
