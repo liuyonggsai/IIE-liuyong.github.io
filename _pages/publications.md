@@ -50,7 +50,7 @@ Hailun Lin, <b>Yong Liu*</b>, Weiping Wang, Yinliang Yue, Zheng Lin. <i> Procedi
 <b>Yong Liu</b>, Shali Jiang, Shizhong Liao. <i>Proceedings of the 22nd ACM international Conference on Information and Knowledge Management (CIKM), 2189-2198, 2013</i>
 
 <b>[An Explicit Description of the Extended Gaussian Kernel]()</b><br>
-<b>Yong Liu</b>, Shizhong Liao. <i>Pacific-Asia Conference on Knowledge Discovery and Data Mining, 88-99, 2012</i>(<b>Best Paper</b>)
+<b>Yong Liu</b>, Shizhong Liao. <i>Proceedings of the Pacific-Asia Conference on Knowledge Discovery and Data Mining, 88-99, 2012</i> (<b>Best Paper</b>)
 
 <b>[Learning Kernels with Upper Bounds of Leave-One-Out error](IIE-liuyong.github.io/files/cikm2011-loo.pdf)</b><br>
 <b>Yong Liu</b>, Shizhong Liao, Yuexian Hou. <i>Proceedings of the 20th ACM international Conference on Information and Knowledge Management (CIKM), 2205-2208, 2011</i>
