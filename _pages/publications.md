@@ -24,12 +24,11 @@ Jian Li, <b>Yong Liu*</b>, Hailun Lin, Yinliang Yue, Weiping Wang. <i>Procedings
 <b>[Efficient Approximation of Cross-Validation for Kernel Methods using Bouligand influence function](IIE-liuyong.github.io/files/icml2014-bif.pdf)</b><br>
 <b>Yong Liu</b>, Shali Jiang, Shizhong Liao. <i>Proceedings of the 31st International Conference on Machine Learning (ICML), 324-332, 2014</i>
 
-<b>[Approximate Kernel Selection with Strong Approximate Consistency](http://IIE-liuyong.github.io/files/aaai2019-aks.pdf)</b> <br>Lizhong Ding, <b>Yong Liu</b>, Shizhong Liao, Peng Yang, Yu Li, Yijie Pan, Chao Huang, Ling Shao, Xin Gao. <i>Proceedings of the 33th International Joint Conference on Artificial Intelligence (AAAI), 2019, accept</i>.
+<b>[Approximate Kernel Selection with Strong Approximate Consistency](http://IIE-liuyong.github.io/files/aaai2019-aks.pdf)</b> <br>Lizhong Ding, <b>Yong Liu</b>, Shizhong Liao, Peng Yang, Yu Li, Yijie Pan, Chao Huang, Ling Shao, Xin Gao. <i> Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019, accept</i>.
 
-<b>[Linear Kernel Tests via Empirical Likelihood for High Dimensional Data](http://IIE-liuyong.github.io/files/aaai2019-lkt.pdf)</b> <br>Lizhong Ding, Zhi Liu, Yu Li, Shizhong Liao, <b>Yong Liu</b>, Peng Yang, Ge Yu, Ling Shao, Xin Gao. <i>Proceedings of the 33th International Joint Conference on Artificial Intelligence (AAAI), 2019, accept</i>.
+<b>[Linear Kernel Tests via Empirical Likelihood for High Dimensional Data](http://IIE-liuyong.github.io/files/aaai2019-lkt.pdf)</b> <br>Lizhong Ding, Zhi Liu, Yu Li, Shizhong Liao, <b>Yong Liu</b>, Peng Yang, Ge Yu, Ling Shao, Xin Gao. <i>Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019, accept</i>.
 
-<b>[Randomized Kernel Selection With Spectra of Multilevel Circulant Matrices](http://IIE-liuyong.github.io/files/AAAI2018-rks.pdf) </b><br> Li-Zhong Ding, Shizhong Liao, <b>Yong Liu</b>, Peng Yang, Xin Gao. <i>Procedings of the 27th International Joint Conference on Artificial Intelligence (IJCAI), 2497-2503, 2018</i>
-
+<b>[Randomized Kernel Selection With Spectra of Multilevel Circulant Matrices](http://IIE-liuyong.github.io/files/AAAI2018-rks.pdf) </b><br> Li-Zhong Ding, Shizhong Liao, <b>Yong Liu</b>, Peng Yang, Xin Gao. <i>Proceedings of the 32nd AAAI Conference on Artificial Intelligence (AAAI), 2497-2503, 2018</i>
 
 <b>[Granularity Selection for Cross-Validation of SVM](http://IIE-liuyong.github.io/files/IS2017-gs.pdf)</b><br>
 <b>Yong Liu</b>, Shizhong Liao. <i>Information Sciences, 378:475-483, 2017</i>
