@@ -9,20 +9,20 @@ Jian Li, <b>Yong Liu*</b>, Rong Yin, Hua Zhang, Li-zhong Ding, Weiping Wang. <i>
 <b>[Fast Cross-Validation](http://IIE-liuyong.github.io/files/IJCAI2018-fcv.pdf)</b><br>
 <b>Yong Liu</b>, Hailun Lin, Lizhong Ding, Weiping Wang, Shizhong Liao. <i>Proceedings of the 32th International Joint Conference on Artificial Intelligence (AAAI), 2910-2917, 2018</i>
 
-<b>[Efficient Approximation of Cross-Validation for Kernel Methods using Bouligand influence function](IIE-liuyong.github.io/files/icml2014-bif.pdf)</b><br>
-<b>Yong Liu</b>, Shali Jiang, Shizhong Liao. <i>Proceedings of the 31st International Conference on Machine Learning (ICML), 324-332, 2014</i>
-
 <b>[Generalization Analysis for Ranking Using Integral Operator](http://IIE-liuyong.github.io/files/aaai2017-ga.pdf)</b><br>
 <b>Yong Liu</b>, Shizhong Liao, Hailun Lin, Yinliang Yue, Weiping Wang. <i>Proceedings of the 27th International Joint Conference on Artificial Intelligence (AAAI), 2272-2279, 2017</i>
 
 <b>[Infinite Kernel Learning: Generalization Bounds and Algorithms](http://IIE-liuyong.github.io/files/aaai2017-ikl.pdf)</b><br>
 <b>Yong Liu</b>, Shizhong Liao, Hailun Lin, Yinliang Yue, Weiping Wang. <i>Proceedings of the 27th International Joint Conference on Artificial Intelligence (AAAI), 2280-2286, 2017</i>
 
+<b>[Efficient Kernel Selection via Spectral Analysis](http://IIE-liuyong.github.io/files/ijcai2017-sm.pdf)</b><br>
+Jian Li, <b>Yong Liu*</b>, Hailun Lin, Yinliang Yue, Weiping Wang. <i>Procedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI), 2124-2130, 2017</i>.
+
 <b>[Eigenvalues Ratio for Kernel Selection of Kernel Methods](IIE-liuyong.github.io/files/aaai2015-kr.pdf)</b><br>
 <b>Yong Liu</b>, Shizhong Liao. <i>Proceedings of the 25th International Joint Conference on Artificial Intelligence (AAAI), 2814-2820, 2015</i>
 
-<b>[Efficient Kernel Selection via Spectral Analysis](http://IIE-liuyong.github.io/files/ijcai2017-sm.pdf)</b><br>
-Jian Li, <b>Yong Liu*</b>, Hailun Lin, Yinliang Yue, Weiping Wang. <i>Procedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI), 2124-2130, 2017</i>.
+<b>[Efficient Approximation of Cross-Validation for Kernel Methods using Bouligand influence function](IIE-liuyong.github.io/files/icml2014-bif.pdf)</b><br>
+<b>Yong Liu</b>, Shali Jiang, Shizhong Liao. <i>Proceedings of the 31st International Conference on Machine Learning (ICML), 324-332, 2014</i>
 
 <b>[Approximate Kernel Selection with Strong Approximate Consistency](http://IIE-liuyong.github.io/files/aaai2019-aks.pdf)</b> <br>Lizhong Ding, <b>Yong Liu</b>, Shizhong Liao, Peng Yang, Yu Li, Yijie Pan, Chao Huang, Ling Shao, Xin Gao. <i>Proceedings of the 33th International Joint Conference on Artificial Intelligence (AAAI), 2019, accept</i>.
 
@@ -69,4 +69,3 @@ Hailun Lin, <b>Yong Liu*</b>, Weiping Wang, Yinliang Yue, Zheng Lin. <i> Procedi
 
 <b>[基于支持向量机泛化误差界的多核学习方法]()</b><br>
 <b>刘勇</b>, 廖士中. <i>武汉大学学报(理学版), 58(2), 2012 </i>
-
