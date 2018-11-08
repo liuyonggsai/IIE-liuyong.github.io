@@ -24,7 +24,7 @@ author_profile: true
 * Best Paper Award of the 2nd PAKDD Doctoral Symposium on Data Mining
 * Student Travel Grant Award of the 16th Pacific-Asia Conference on Knowledge Discovery and Data Mining
 ## 主持项目
-* 大规模核方法积分算子谱分析的模型选择方法，青年自然科学基金，2018.01--2020.12
+* 大规模核方法积分算子谱分析的模型选择方法，青年自然科学基金，2018.01--2020.12 (No.61703396)
 * 大规模核方法模型选择研究，中国科学院信息工程研究所“引进优秀青年人才”项目，2018.01-2020.12
 
 ## 出版信息
