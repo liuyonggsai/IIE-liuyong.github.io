@@ -14,6 +14,7 @@ As a part of big data team in IIE, the laboratory is focusing on basic research 
 [Yong Liu](https://iie-liuyong.github.io)|liuyong@iie.ac.cn|Assistant Professer|IIE, CAS|
 Rong Yin|yinrong@iie.ac.cn|PhD student|IIE, CAS|
 [Jian Li](https://lijian.ac.cn)|me@lijian.ac.cn|PhD student|IIE, CAS|
+
 <!--[Yong Liu](https://iie-liuyong.github.io/)|liuyong@iie.ac.cn|Assistant prof.|IIE, CAS|-->
 <!--
 More Postions:
