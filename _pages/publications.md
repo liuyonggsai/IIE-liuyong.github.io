@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 <b>[Max-Diversity Distributed Learning: Theory and Algorithms]()</b> <br>
-Yong Liu, Jian Li, Weiping Wang. <i>arXiv, 2018.</i>
+<b>Yong Liu</b>, Jian Li, Weiping Wang. <i>arXiv, 2018.</i>
 
 <b>[Multi-Class Learning: From Theory to Algorithm](http://IIE-liuyong.github.io/files/nips2018-mc.pdf)</b> <br>
 Jian Li, <b>Yong Liu*</b>, Rong Yin, Hua Zhang, Li-zhong Ding, Weiping Wang. <i>Advances in Neural Information Processing Systems 31 (NIPS), 2018, accept</i>.
