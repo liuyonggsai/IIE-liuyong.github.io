@@ -3,7 +3,7 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-<b>[Max-Diversity Distributed Learning: Theory and Algorithms]</b> <br>
+<b>[Max-Diversity Distributed Learning: Theory and Algorithms]()</b> <br>
 Yong Liu, Jian Li, Weiping Wang. <i>arXiv, 2018.</i>
 
 <b>[Multi-Class Learning: From Theory to Algorithm](http://IIE-liuyong.github.io/files/nips2018-mc.pdf)</b> <br>
