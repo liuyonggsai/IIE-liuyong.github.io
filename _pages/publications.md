@@ -3,9 +3,6 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-<b>[test]()</b> <br>
-<b>Yong Liu</b>, Jian Li, Weiping Wang. <i>arXiv, 2018.</i>
-
 <b>[Max-Diversity Distributed Learning: Theory and Algorithms]()</b> <br>
 <b>Yong Liu</b>, Jian Li, Weiping Wang. <i>arXiv, 2018.</i>
 
