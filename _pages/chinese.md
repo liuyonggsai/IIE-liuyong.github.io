@@ -32,6 +32,12 @@ author_profile: true
 * 中科院“青促会”人才项目，2019-2022
 
 ## 文章列表
+<b>[Fast Cross-Validation for Kernel-based Algorithms]()</b> <br>
+<b>Yong Liu</b>, Shizhong Liao, Shali Jiang, Lizhong Ding, Hailun Lin, Weiping Wang. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019.</i>
+
+<b>[Max-Diversity Distributed Learning: Theory and Algorithms]()</b> <br>
+<b>Yong Liu</b>, Jian Li, Weiping Wang. <i>arXiv, 2018.</i>
+
 <b>[Multi-Class Learning: From Theory to Algorithm](http://IIE-liuyong.github.io/files/nips2018-mc.pdf)</b> <br>
 Jian Li, <b>Yong Liu*</b>, Rong Yin, Hua Zhang, Li-zhong Ding, Weiping Wang. <i>Advances in Neural Information Processing Systems 31 (NIPS), 2018, accept</i>.
 
