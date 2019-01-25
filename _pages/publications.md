@@ -4,13 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 <b>[Fast Cross-Validation for Kernel-based Algorithms]()</b> <br>
-<b>Yong Liu</b>, Shizhong Liao, Shali Jiang, Lizhong Ding, Hailun Lin, Weiping Wang. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019.</i>
+<b>Yong Liu</b>, Shizhong Liao, Shali Jiang, Lizhong Ding, Hailun Lin, Weiping Wang. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019,to appear.</i>
 
 <b>[Max-Diversity Distributed Learning: Theory and Algorithms]()</b> <br>
 <b>Yong Liu</b>, Jian Li, Weiping Wang. <i>arXiv, 2018.</i>
 
 <b>[Multi-Class Learning: From Theory to Algorithm](http://IIE-liuyong.github.io/files/nips2018-mc.pdf)</b> <br>
-Jian Li, <b>Yong Liu*</b>, Rong Yin, Hua Zhang, Li-zhong Ding, Weiping Wang. <i>Advances in Neural Information Processing Systems 31 (NIPS), 2018, accept</i>.
+Jian Li, <b>Yong Liu*</b>, Rong Yin, Hua Zhang, Li-zhong Ding, Weiping Wang. <i>Advances in Neural Information Processing Systems 31 (NIPS), 1593-1602, 2018</i>.
 
 <b>[Fast Cross-Validation](http://IIE-liuyong.github.io/files/IJCAI2018-fcv.pdf)</b><br>
 <b>Yong Liu</b>, Hailun Lin, Lizhong Ding, Weiping Wang, Shizhong Liao. <i>Proceedings of the 27th International Joint Conference on Artificial Intelligence (IJCAI), 2910-2917, 2018</i>
