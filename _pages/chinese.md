@@ -31,8 +31,11 @@ author_profile: true
 * 中科院“青促会”人才项目，2019-2022
 
 ## 文章列表
+<b>[Efficient Cross-Validation for Semi-Supervised Learning]()</b> <br>
+<b>Yong Liu</b>, Jian Li, Guangjun Wu, Lizhong Ding, Weiping Wang. <i>arXiv, 2019.</i>
+
 <b>[Fast Cross-Validation for Kernel-based Algorithms]()</b> <br>
-<b>Yong Liu</b>, Shizhong Liao, Shali Jiang, Lizhong Ding, Hailun Lin, Weiping Wang. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019.</i>
+<b>Yong Liu</b>, Shizhong Liao, Shali Jiang, Lizhong Ding, Hailun Lin, Weiping Wang. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019, to appear.</i>
 
 <b>[Max-Diversity Distributed Learning: Theory and Algorithms]()</b> <br>
 <b>Yong Liu</b>, Jian Li, Weiping Wang. <i>arXiv, 2018.</i>
