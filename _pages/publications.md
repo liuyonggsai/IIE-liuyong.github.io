@@ -3,7 +3,7 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-<b>Learning Structural Representations via Dynamic Object Landmarks Discovery for Sketch Recognition and Retrieval()</b><br>
+<b>[Learning Structural Representations via Dynamic Object Landmarks Discovery for Sketch Recognition and Retrieval]()</b><br>
 Hua Zhang, Peng She, <b>Yong Liu</b>, Xiaochun Cao, Hassan Foroosh.  <i>IEEE Transactions on Image Processing (TIP), 2019</i>
 
 <b>[Representation Learning of Taxonomies for Taxonomy Matching]()</b><br>
