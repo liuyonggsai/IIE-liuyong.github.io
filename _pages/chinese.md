@@ -31,6 +31,13 @@ author_profile: true
 * 中科院“青促会”人才项目，2019-2022
 
 ## 文章列表
+<b>[Learning Structural Representations via Dynamic Object Landmarks Discovery for Sketch Recognition and Retrieval]()</b><br>
+Hua Zhang, Peng She, <b>Yong Liu</b>, Xiaochun Cao, Hassan Foroosh.  <i>IEEE Transactions on Image Processing (TIP), 2019</i>
+
+<b>[Representation Learning of Taxonomies for Taxonomy Matching]()</b><br>
+Hailun Lin, <b>Yong Liu*</b>. <i> International Conference on Computational Science (ICCS), 2019.</i>
+
+
 <b>[Efficient Cross-Validation for Semi-Supervised Learning]()</b> <br>
 <b>Yong Liu</b>, Jian Li, Guangjun Wu, Lizhong Ding, Weiping Wang. <i>arXiv, 2019.</i>
 
