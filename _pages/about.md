@@ -17,7 +17,7 @@ redirect_from:
 * My research interests lie in the general area of machine learning, particularly in large scale machine learning, kernel method and model selection.
 
 # Recent News
-* Apr.8， 2019. A paper titled "Learning Structural Representations via Dynamic Object Landmarks Discovery for Sketch Recognition and Retrieval" was accepted at IEEE Transactions on Image Processing (TIP), 2019.
+* Apr 8，2019. A paper titled "Learning Structural Representations via Dynamic Object Landmarks Discovery for Sketch Recognition and Retrieval" was accepted at IEEE Transactions on Image Processing (TIP), 2019.
 * Feb 13, 2019. A paper titled "Efficient Cross-Validation for Semi-Supervised Learning" was submitted to arXiv, 2019."
 * Jan 16, 2019. A paper titled "Fast Cross-Validation for Kernel-based Algorithms" was publiched online at T-PAMI.
 * Dec 25, 2018. A paper titled "Max-Diversity Distributed Learning: Theory and Algorithms" was submitted to arXiv, 2018.
