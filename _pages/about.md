@@ -14,7 +14,7 @@ redirect_from:
 
 * I received my Bachelor's in Hebei University of Technology, 2009, Tianjin, China; I received my Master's and Ph.D Degrees in Tianjin University, 2016, Tianjin, China; I am currently an associate researcher at [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/).
 
-* My research interests lie in the general area of machine learning, particularly in large scale machine learning, kernel method and model selection.
+* My research interests lie in the general area of machine learning, particularly in large scale machine learning, autoML, kernel method and model selection.
 
 # Recent News
 * Apr 8，2019. A paper titled "Learning Structural Representations via Dynamic Object Landmarks Discovery for Sketch Recognition and Retrieval" was accepted at IEEE Transactions on Image Processing (TIP), 2019.
