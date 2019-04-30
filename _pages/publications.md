@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 <b>[Accelerating Real-Time Tracking Applications over Big Data Stream with Constrained Space]()</b><br>
-Guangjun Wu, Xiaochun Yun, Shupeng Wang, Ge Fu, Chao Li, Yong Liu, Binbin Li, Yong Wang, Zhihui Zhao. <i>
+Guangjun Wu, Xiaochun Yun, Shupeng Wang, Ge Fu, Chao Li, <b>Yong Liu</b>, Binbin Li, Yong Wang, Zhihui Zhao. <i>
  Proceedings of the 24th International Conference on Database Systems for Advanced Applications (DASFAA), 2019: 3-18</i>
 
 <b>[Learning Structural Representations via Dynamic Object Landmarks Discovery for Sketch Recognition and Retrieval]()</b><br>
