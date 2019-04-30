@@ -31,6 +31,10 @@ author_profile: true
 * 中科院“青促会”人才项目，2019-2022
 
 ## 文章列表
+<b>[Accelerating Real-Time Tracking Applications over Big Data Stream with Constrained Space]()</b><br>
+Guangjun Wu, Xiaochun Yun, Shupeng Wang, Ge Fu, Chao Li, <b>Yong Liu</b>, Binbin Li, Yong Wang, Zhihui Zhao. <i>
+ Proceedings of the 24th International Conference on Database Systems for Advanced Applications (DASFAA), 2019: 3-18</i>
+
 <b>[Learning Structural Representations via Dynamic Object Landmarks Discovery for Sketch Recognition and Retrieval]()</b><br>
 Hua Zhang, Peng She, <b>Yong Liu</b>, Xiaochun Cao, Hassan Foroosh.  <i>IEEE Transactions on Image Processing (TIP), 2019</i>
 
