@@ -3,6 +3,14 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+<b>[Multi-Class Learning using Unlabeled Samples: Theory and Algorithm]()</b><br>
+Jian Li, <b>Yong Liu*</b>, Rong Yin, Weiping Wang.
+<i>Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI), 2019</i>
+
+<b>[Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis]()</b><br>
+Jian Li, <b>Yong Liu*</b>, Rong Yin, Weiping Wang.
+<i>Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI), 2019</i>
+
 <b>[Accelerating Real-Time Tracking Applications over Big Data Stream with Constrained Space]()</b><br>
 Guangjun Wu, Xiaochun Yun, Shupeng Wang, Ge Fu, Chao Li, <b>Yong Liu</b>, Binbin Li, Yong Wang, Zhihui Zhao. <i>
  Proceedings of the 24th International Conference on Database Systems for Advanced Applications (DASFAA), 2019: 3-18</i>
