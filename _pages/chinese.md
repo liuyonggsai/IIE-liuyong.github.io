@@ -31,6 +31,14 @@ author_profile: true
 * 中科院“青促会”人才项目，2019.02-2022.12
 
 ## 文章列表
+<b>[Multi-Class Learning using Unlabeled Samples: Theory and Algorithm]()</b><br>
+Jian Li, <b>Yong Liu*</b>, Rong Yin, Weiping Wang.
+<i>Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI), 2019</i>
+
+<b>[Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis]()</b><br>
+Jian Li, <b>Yong Liu*</b>, Rong Yin, Weiping Wang.
+<i>Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI), 2019</i>
+
 <b>[Accelerating Real-Time Tracking Applications over Big Data Stream with Constrained Space]()</b><br>
 Guangjun Wu, Xiaochun Yun, Shupeng Wang, Ge Fu, Chao Li, <b>Yong Liu</b>, Binbin Li, Yong Wang, Zhihui Zhao. <i>
  Proceedings of the 24th International Conference on Database Systems for Advanced Applications (DASFAA), 2019: 3-18</i>
