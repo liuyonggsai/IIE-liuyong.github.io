@@ -17,6 +17,8 @@ redirect_from:
 * My research interests lie in the general area of machine learning, particularly in large scale machine learning, autoML, kernel method and model selection.
 
 # Recent News
+* May 15, 2019. A paper titled "Multi-Class Learning using Unlabeled Samples: Theory and Algorithm" was accepted at IJCAI 2019.
+* May 15, 2019. A paper titled "Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis" was accepted at IJCAI 2019.
 * Apr 8，2019. A paper titled "Learning Structural Representations via Dynamic Object Landmarks Discovery for Sketch Recognition and Retrieval" was accepted at IEEE Transactions on Image Processing (TIP), 2019.
 * Feb 13, 2019. A paper titled "Efficient Cross-Validation for Semi-Supervised Learning" was submitted to arXiv, 2019."
 * Jan 16, 2019. A paper titled "Fast Cross-Validation for Kernel-based Algorithms" was publiched online at T-PAMI.
