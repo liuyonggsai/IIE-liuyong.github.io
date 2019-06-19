@@ -5,7 +5,11 @@ author_profile: true
 ---
 <b>[Kernel Stability for Model Selection in Kernel-based Algorithms]()</b><br>
 <b>Yong Liu</b>, Shizhong Liao, Hua Zhang, Wenqi Ren, Weiping Wang. 
-IEEE Transactions Cybernetics, 2019 (accept).
+<i>IEEE Transactions Cybernetics, 2019 (accept).</i>
+
+<b>[Distributed Learning with Random Features]()</b><br>
+Jian Li, <b>Yong Liu</b>, Weiping Wang. 
+<i>arXiv, 2019</i>.
 
 <b>[Multi-Class Learning using Unlabeled Samples: Theory and Algorithm]()</b><br>
 Jian Li, <b>Yong Liu*</b>, Rong Yin, Weiping Wang.
