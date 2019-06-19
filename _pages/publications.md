@@ -3,6 +3,10 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+<b>[Kernel Stability for Model Selection in Kernel-based Algorithms]()</b><br>
+<b>Yong Liu</b>, Shizhong Liao, Hua Zhang, Wenqi Ren, Weiping Wang. 
+IEEE Transactions Cybernetics, 2019 (accept).
+
 <b>[Multi-Class Learning using Unlabeled Samples: Theory and Algorithm]()</b><br>
 Jian Li, <b>Yong Liu*</b>, Rong Yin, Weiping Wang.
 <i>Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI), 2019</i>
