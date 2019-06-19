@@ -8,7 +8,7 @@ author_profile: true
 <i>IEEE Transactions Cybernetics, 2019 (accept).</i>
 
 <b>[Distributed Learning with Random Features]()</b><br>
-Jian Li, <b>Yong Liu</b>, Weiping Wang. 
+Jian Li, <b>Yong Liu*</b>, Weiping Wang. 
 <i>arXiv, 2019</i>.
 
 <b>[Multi-Class Learning using Unlabeled Samples: Theory and Algorithm]()</b><br>
