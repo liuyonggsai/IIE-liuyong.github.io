@@ -3,6 +3,10 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+<b>[Two Generator Game: Learning to Sample via Linear Goodness-of-Fit Test]</b><br>
+Lizhong Ding, Mengyang Yu, Li Liu, Fan Zhu, <b>Yong Liu</b>, Yu Li, Ling Shao. 
+<i>Advances in Neural Information Processing Systems 32 (NIPS), 2019</i>
+
 <b>[Kernel Stability for Model Selection in Kernel-based Algorithms]()</b><br>
 <b>Yong Liu</b>, Shizhong Liao, Hua Zhang, Wenqi Ren, Weiping Wang. 
 <i>IEEE Transactions Cybernetics, 2019 (accept).</i>
