@@ -31,6 +31,10 @@ author_profile: true
 * 中科院“青促会”人才项目，2019.02-2022.12
 
 ## 文章列表
+<b>[Two Generator Game: Learning to Sample via Linear Goodness-of-Fit Test]()</b><br>
+Lizhong Ding, Mengyang Yu, Li Liu, Fan Zhu, <b>Yong Liu</b>, Yu Li, Ling Shao. 
+<i>Advances in Neural Information Processing Systems 32 (NIPS), 2019</i>
+
 <b>[Kernel Stability for Model Selection in Kernel-based Algorithms]()</b><br>
 <b>Yong Liu</b>, Shizhong Liao, Hua Zhang, Wenqi Ren, Weiping Wang. 
 <i>IEEE Transactions Cybernetics, 2019 (accept).</i>
