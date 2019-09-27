@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 <b>[Sketch Kernel Ridge Regression using Circulant Matrix: Algorithm and Theory]()</b><br>
-Yin Rong, <b>Yong Liu</b>, Weiping Wang, Dan Meng.
+Yin Rong, <b>Yong Liu*</b>, Weiping Wang, Dan Meng.
 <i>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2019</i> (CCF A, SCI Q1, Top)
 
 <b>[Two Generator Game: Learning to Sample via Linear Goodness-of-Fit Test]()</b><br>
