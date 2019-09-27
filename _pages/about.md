@@ -17,7 +17,9 @@ redirect_from:
 * My research interests lie in the general area of machine learning, particularly in large scale machine learning, autoML, kernel method and model selection.
 
 # Recent News
-* Sep 5, 2019. A paper "Two Generator Game: Learning to Sample via Linear Goodness-of-Fit Test"  was accepted at NIPS, 2019
+* Sep 27, 2019. A paper "Sketch Kernel Ridge Regression using Circulant Matrix: Algorithm and Theory" was accepted at
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2019.
+* Sep 5, 2019. A paper "Two Generator Game: Learning to Sample via Linear Goodness-of-Fit Test"  was accepted at NIPS, 2019.
 * Jun 12, 2019. A paper "Kernel Stability for Model Selection in Kernel-based Algorithms" was accepted at IEEE Transactions Cybernetics, 2019.
 * May 15, 2019. A paper titled "Multi-Class Learning using Unlabeled Samples: Theory and Algorithm" was accepted at IJCAI 2019.
 * May 15, 2019. A paper titled "Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis" was accepted at IJCAI 2019.
