@@ -51,6 +51,7 @@ Hailun Lin, <b>Yong Liu*</b>. <i> International Conference on Computational Scie
 <b>[Fast Cross-Validation for Kernel-based Algorithms]()</b> <br>
 <b>Yong Liu</b>, Shizhong Liao, Shali Jiang, Lizhong Ding, Hailun Lin, Weiping Wang. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019.</i> (CCF A， SCI Q1, Top)
 
+
 <b>[Max-Diversity Distributed Learning: Theory and Algorithms]()</b> <br>
 <b>Yong Liu</b>, Jian Li, Weiping Wang. <i>arXiv, 2018.</i>
 
@@ -59,6 +60,7 @@ Jian Li, <b>Yong Liu*</b>, Rong Yin, Hua Zhang, Li-zhong Ding, Weiping Wang. <i>
 
 <b>[Fast Cross-Validation](http://IIE-liuyong.github.io/files/IJCAI2018-fcv.pdf)</b><br>
 <b>Yong Liu</b>, Hailun Lin, Lizhong Ding, Weiping Wang, Shizhong Liao. <i>Proceedings of the 27th International Joint Conference on Artificial Intelligence (IJCAI), 2910-2917, 2018</i> (CCF A)
+
 
 <b>[Generalization Analysis for Ranking Using Integral Operator](http://IIE-liuyong.github.io/files/aaai2017-ga.pdf)</b><br>
 <b>Yong Liu</b>, Shizhong Liao, Hailun Lin, Yinliang Yue, Weiping Wang. <i>Proceedings of the 31st AAAI Conference on Artificial Intelligence (AAAI), 2272-2279, 2017</i> (CCF A)
