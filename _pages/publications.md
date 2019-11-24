@@ -3,6 +3,14 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+<b>[Divide-and-Conquer Learning with Nystr\"{o}m: Optimal Rate and Algorithm]()</b><br>
+Rong Yin, <b>Yong Liu*</b>, lijing lu, Weiping Wang, Dan Meng.
+<i>Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI), 2020</i> (CCF A)
+
+<b>[Automated Spectral Kernel Learning]()</b><br>
+Jian Li, <b>Yong Liu*</b>, Weiping Wang.
+<i>Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI), 2020</i> (CCF A)
+
 <b>[Sketch Kernel Ridge Regression using Circulant Matrix: Algorithm and Theory]()</b><br>
 Yin Rong, <b>Yong Liu*</b>, Weiping Wang, Dan Meng.
 <i>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2019</i> (CCF A, SCI Q1, Top)
