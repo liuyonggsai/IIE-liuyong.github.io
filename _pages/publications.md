@@ -3,7 +3,7 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-<b>A Sketching Approach for Obtaining Real-time Statistics over Data Streams in Cloud()</b><br>
+<b>[A Sketching Approach for Obtaining Real-time Statistics over Data Streams in Cloud]()</b><br>
 Guangjun Wu, Xiaochun Yun, Yong Wang, Shupeng Wang, Binbin Li, <b>Yong Liu</b>.
 <i>IEEE Transactions on Cloud Computing, 2020</i>, accept.
 
