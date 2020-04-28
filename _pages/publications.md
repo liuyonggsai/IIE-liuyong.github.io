@@ -3,6 +3,9 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+<b>[Fast Cross-Validation for Kernel-based Algorithms]()</b> <br>
+<b>Yong Liu</b>, Shizhong Liao, Shali Jiang, Lizhong Ding, Hailun Lin, Weiping Wang. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019, 42(5):1083-1096.</i> (CCF A， SCI Q1, Top)
+
 <b>[A Sketching Approach for Obtaining Real-time Statistics over Data Streams in Cloud]()</b><br>
 Guangjun Wu, Xiaochun Yun, Yong Wang, Shupeng Wang, Binbin Li, <b>Yong Liu</b>.
 <i>IEEE Transactions on Cloud Computing, 2020</i>, accept.
@@ -25,7 +28,7 @@ Lizhong Ding, Mengyang Yu, Li Liu, Fan Zhu, <b>Yong Liu</b>, Yu Li, Ling Shao.
 
 <b>[Kernel Stability for Model Selection in Kernel-based Algorithms]()</b><br>
 <b>Yong Liu</b>, Shizhong Liao, Hua Zhang, Wenqi Ren, Weiping Wang. 
-<i>IEEE Transactions Cybernetics, 2019.</i> (CCF B, SCI Q1, Top)
+<i>IEEE Transactions Cybernetics, 2019:11257-11268.</i> (CCF B, SCI Q1, Top)
 
 <b>[Distributed Learning with Random Features]()</b><br>
 Jian Li, <b>Yong Liu*</b>, Weiping Wang. 
@@ -33,27 +36,24 @@ Jian Li, <b>Yong Liu*</b>, Weiping Wang.
 
 <b>[Multi-Class Learning using Unlabeled Samples: Theory and Algorithm]()</b><br>
 Jian Li, <b>Yong Liu*</b>, Rong Yin, Weiping Wang.
-<i>Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI), 2019</i> (CCF A)
+<i>Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI), 2019:2280-2286</i> (CCF A)
 
 <b>[Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis]()</b><br>
 Jian Li, <b>Yong Liu*</b>, Rong Yin, Weiping Wang.
-<i>Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI), 2019</i> (CCF A)
+<i>Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI), 2019:2887--2893</i> (CCF A)
 
 <b>[Accelerating Real-Time Tracking Applications over Big Data Stream with Constrained Space]()</b><br>
 Guangjun Wu, Xiaochun Yun, Shupeng Wang, Ge Fu, Chao Li, <b>Yong Liu</b>, Binbin Li, Yong Wang, Zhihui Zhao. <i>
  Proceedings of the 24th International Conference on Database Systems for Advanced Applications (DASFAA), 2019: 3-18</i>
 
 <b>[Learning Structural Representations via Dynamic Object Landmarks Discovery for Sketch Recognition and Retrieval]()</b><br>
-Hua Zhang, Peng She, <b>Yong Liu</b>, Xiaochun Cao, Hassan Foroosh.  <i>IEEE Transactions on Image Processing (TIP), 2019</i> (CCF A)
+Hua Zhang, Peng She, <b>Yong Liu</b>, Xiaochun Cao, Hassan Foroosh.  <i>IEEE Transactions on Image Processing (TIP), 2019, 28(9):4486--4499</i> (CCF A)
 
 <b>[Representation Learning of Taxonomies for Taxonomy Matching]()</b><br>
-Hailun Lin, <b>Yong Liu*</b>. <i> International Conference on Computational Science (ICCS), 2019.</i>
+Hailun Lin, <b>Yong Liu*</b>. <i> International Conference on Computational Science (ICCS), 2019:383--397.</i>
 
 <b>[Efficient Cross-Validation for Semi-Supervised Learning]()</b> <br>
 <b>Yong Liu</b>, Jian Li, Guangjun Wu, Lizhong Ding, Weiping Wang. <i>arXiv, 2019.</i>
-
-<b>[Fast Cross-Validation for Kernel-based Algorithms]()</b> <br>
-<b>Yong Liu</b>, Shizhong Liao, Shali Jiang, Lizhong Ding, Hailun Lin, Weiping Wang. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019.</i> (CCF A， SCI Q1, Top)
 
 
 <b>[Max-Diversity Distributed Learning: Theory and Algorithms]()</b> <br>
