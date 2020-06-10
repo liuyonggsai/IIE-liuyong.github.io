@@ -33,6 +33,9 @@ author_profile: true
 * 中科院“青促会”人才项目，2019.02-2022.12
 
 ## 文章列表
+<b>[Nearly Optimal Risk Bounds for Kernel K-Means]()</b> <br>
+<b>Yong Liu</b>, Lizhong Ding, Weiping Wang. <i>ICML 2020</i> (accept, CCF A)
+
 <b>[Fast Cross-Validation for Kernel-based Algorithms]()</b> <br>
 <b>Yong Liu</b>, Shizhong Liao, Shali Jiang, Lizhong Ding, Hailun Lin, Weiping Wang. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019, 42(5):1083-1096.</i> (CCF A， SCI Q1, Top)
 
