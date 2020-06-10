@@ -17,8 +17,8 @@ redirect_from:
 * My research interests lie in the general area of machine learning, particularly in large scale machine learning, autoML, kernel method and model selection.
 
 # Recent News
-*Jun 5, 2020. A paper "Nearly Optimal Risk Bounds for Kernel K-Means" was accepted at ICML 2020.
 
+* Jun 5, 2020. A paper "Nearly Optimal Risk Bounds for Kernel K-Means" was accepted at ICML 2020.
 * Sep 27, 2019. A paper "Sketch Kernel Ridge Regression using Circulant Matrix: Algorithm and Theory" was accepted at
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2019.
 * Sep 5, 2019. A paper "Two Generator Game: Learning to Sample via Linear Goodness-of-Fit Test"  was accepted at NIPS, 2019.
