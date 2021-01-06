@@ -12,9 +12,9 @@ redirect_from:
   <img src="https://IIE-liuyong.github.io/files/yongliu.jpg?raw=true" alt="Photo" style="width: 450px;"/>
 </p>
 
-* I received my Bachelor's in Hebei University of Technology, 2009, Tianjin, China; I received my Master's and Ph.D Degrees in Tianjin University, 2016, Tianjin, China; I am currently an associate researcher at [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/).
+* I received my Master's and Ph.D Degrees in Tianjin University, 2016, Tianjin, China; I am currently an associate researcher at Gaoling School of Artificial Intelligence, Renmin University of China.
 
-* My research interests lie in the general area of machine learning, particularly in large scale machine learning, autoML, kernel method and model selection.
+* My research interests lie in the general area of machine learning, particularly in large scale machine learning, autoML and model selection.
 
 # Recent News
 
