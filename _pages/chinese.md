@@ -4,8 +4,8 @@ title: "中文简介"
 permalink: /chinese/
 author_profile: true
 ---
-### 刘勇 男 副研究员 中国科学院信息工程研究所 电子邮箱：liuyong@iie.ac.cn
-对机器学习领域中的大规模机器学习、自动机器学习、大规模核方法、核方法模型选择等开展了深入研究，在顶级期刊和会议上发表论文20余篇，其中以第一作者或通讯作者发表CCFA类文章15余篇，涵盖机器学习领域顶级期刊T-PAMI和全部4大顶级会议（NIPS，ICML，IJCAI，AAAI）。获得中科院“青促会”和信工所“引进优青”人才称号及天津大学优秀博士论文。主持国家自然科学基金青年项目1项，中科院“青促会”和信工所“引进优青”人才项目2项，保密局战略研究项目子课题1项，作为核心骨干参与国家重点研发计划子课题和北京市局横向项目2项。
+### 刘勇 男 副研究员, 高瓴人工智能学院， 电子邮箱：liuyonggsai@ruc.edu.cn
+对机器学习领域中的大规模机器学习、自动机器学习、大规模核方法、核方法模型选择等开展了深入研究，在顶级期刊和会议上发表论文30余篇，其中以第一作者或通讯作者发表CCFA类文章20余篇，涵盖机器学习领域顶级期刊T-PAMI和全部4大顶级会议（NIPS，ICML，IJCAI，AAAI）。获得中科院“青促会”和信工所“引进优青”人才称号及天津大学优秀博士论文。主持国家自然科学基金面上项目/青年项目各1项，腾讯CCF犀牛鸟基金1项，中科院“青促会”和信工所“引进优青”人才项目2项，保密局战略研究项目子课题1项，作为核心骨干参与国家重点研发计划子课题和北京市局横向项目2项。
 ## 研究方向
 大规模机器学习，自动机器学习，隐私学习
 
@@ -15,10 +15,12 @@ author_profile: true
 2005-2009，河北工业大学信息与计算科学专业，本科生
 
 ## 工作经历
-2018.10-至今，中国科学院信息工程研究所，副研究员<br>
+2020.8-至今，中国人民大学，副研究员，博导<br>
+2018.10-2020.8，中国科学院信息工程研究所，副研究员，硕导<br>
 2016.7-2018.10，中国科学院信息工程研究所，助理研究员
 
 ## 荣誉称号
+* 2019年CCF-腾讯犀牛鸟基金优秀奖
 * 中科院“青促会”人才称号，2019
 * 中国科学院信息工程研究所“引进优秀青年人才”，2017
 * 天津大学优秀博士毕业论文，2017
@@ -26,6 +28,7 @@ author_profile: true
 * Student Travel Grant Award of the 16th Pacific-Asia Conference on Knowledge Discovery and Data Mining
 
 ## 主持项目
+* 大规模深度核学习的理论与算法研究，自然科学基金面上项目，2020.1.1--2014.12.31 (No.62076234)
 * 深度神经网络结构自动搜索理论与算法研究，中国科学院基础前沿科学研究计划，2019.9--2024.9
 * 基于贝叶斯优化的DNN模型结构自动学习研究，腾讯犀牛鸟基金，2019.10--2020.12
 * 大规模核方法积分算子谱分析的模型选择方法，青年自然科学基金，2018.01--2020.12 (No.61703396)
@@ -33,8 +36,11 @@ author_profile: true
 * 中科院“青促会”人才项目，2019.02-2022.12
 
 ## 文章列表
+<b>[Extremely Sparse Johnson-Lindenstrauss Transform:From Theory to Algorithm]()</b> <br>
+ Rong Ying, <b>Yong Liu*</b>, Weiping Wang,  Dan Meng. <i>ICDM 2020 </i> (accept, CCF B)
+ 
 <b>[Nearly Optimal Risk Bounds for Kernel K-Means]()</b> <br>
-<b>Yong Liu</b>, Lizhong Ding, Weiping Wang. <i>ICML 2020</i> (accept, CCF A)
+<b>Yong Liu</b>, Lizhong Ding, Weiping Wang. <i>ICML 2020 </i> (accept, CCF A)
 
 <b>[Fast Cross-Validation for Kernel-based Algorithms]()</b> <br>
 <b>Yong Liu</b>, Shizhong Liao, Shali Jiang, Lizhong Ding, Hailun Lin, Weiping Wang. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019, 42(5):1083-1096.</i> (CCF A， SCI Q1, Top)
