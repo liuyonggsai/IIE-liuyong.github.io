@@ -36,6 +36,9 @@ author_profile: true
 * 中科院“青促会”人才项目，2019.02-2022.12
 
 ## 文章列表
+<b>[Effective Distributed Learning with Random Features: Improved Bounds and Algorithms]()</b> <br>
+<b>Yong Liu</b>, Jiankun Liu, Shuqiang Wang, Weiping Wang. <i>ICLR 2021</i> (accept)
+
 <b>[Extremely Sparse Johnson-Lindenstrauss Transform:From Theory to Algorithm]()</b> <br>
  Rong Ying, <b>Yong Liu*</b>, Weiping Wang,  Dan Meng. <i>ICDM 2020 </i> (accept, CCF B)
  
