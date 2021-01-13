@@ -3,6 +3,9 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+<b>[Effective Distributed Learning with Random Features: Improved Bounds and Algorithms]()</b> <br>
+<b>Yong Liu</b>, Jiankun Liu, Shuqiang Wang, Weiping Wang. <i>ICLR 2021</i> (accept)
+
 <b>[Nearly Optimal Risk Bounds for Kernel K-Means]()</b> <br>
 <b>Yong Liu</b>, Lizhong Ding, Weiping Wang. <i>ICML 2020</i> (accept, CCF A)
 
