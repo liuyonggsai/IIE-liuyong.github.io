@@ -6,6 +6,9 @@ author_profile: true
 <b>[Effective Distributed Learning with Random Features: Improved Bounds and Algorithms]()</b> <br>
 <b>Yong Liu</b>, Jiankun Liu, Shuqiang Wang, Weiping Wang. <i>ICLR 2021</i> (accept)
 
+<b>[Extremely Sparse Johnson-Lindenstrauss Transform:From Theory to Algorithm]()</b> <br>
+ Rong Ying, <b>Yong Liu*</b>, Weiping Wang,  Dan Meng. <i>ICDM 2020 </i> (accept, CCF B)
+
 <b>[Nearly Optimal Risk Bounds for Kernel K-Means]()</b> <br>
 <b>Yong Liu</b>, Lizhong Ding, Weiping Wang. <i>ICML 2020</i> (accept, CCF A)
 
