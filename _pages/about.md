@@ -17,6 +17,7 @@ redirect_from:
 * My research interests lie in the general area of machine learning, particularly in large scale machine learning, autoML and model selection.
 
 # Recent News
+* May 8, 2021. Two papers "Sharper Generalization Bounds for Clustering" and "Distributed Nystrom Kernel Learning with Communications" were accepted at ICML 2021.
 * Jan 13, 2021. A paper "Effective Distributed Learning with Random Features: Improved Bounds and Algorithms" was accepted at ICLR 2021.
 * Jun 5, 2020. A paper "Nearly Optimal Risk Bounds for Kernel K-Means" was accepted at ICML 2020.
 * Sep 27, 2019. A paper "Sketch Kernel Ridge Regression using Circulant Matrix: Algorithm and Theory" was accepted at
