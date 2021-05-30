@@ -5,7 +5,7 @@ permalink: /chinese/
 author_profile: true
 ---
 ### 刘勇 男 副研究员, 高瓴人工智能学院，中国人民大学， 电子邮箱：liuyonggsai@ruc.edu.cn
-对机器学习领域中的大规模机器学习、自动机器学习、大规模核方法、核方法模型选择等开展了深入研究，在顶级期刊和会议上发表论文30余篇，其中以第一作者或通讯作者发表CCFA类文章20余篇，涵盖机器学习领域顶级期刊T-PAMI和全部4大顶级会议（NIPS，ICML，IJCAI，AAAI）。获得中科院“青促会”和信工所“引进优青”人才称号及天津大学优秀博士论文。主持国家自然科学基金面上项目/青年项目各1项，腾讯CCF犀牛鸟基金1项，中科院“青促会”和信工所“引进优青”人才项目2项，保密局战略研究项目子课题1项，作为核心骨干参与国家重点研发计划子课题和北京市局横向项目2项。
+对机器学习领域中的大规模机器学习、自动机器学习、大规模核方法、核方法模型选择等开展了深入研究，在顶级期刊和会议上发表论文30余篇，其中以第一作者或通讯作者发表CCFA类文章20余篇，涵盖机器学习领域顶级期刊T-PAMI和全部5大顶级会议（NIPS，ICML，ICLR，IJCAI，AAAI）。获得中科院“青促会”和信工所“引进优青”人才称号及天津大学优秀博士论文。主持国家自然科学基金面上项目/青年项目各1项，腾讯CCF犀牛鸟基金1项（评为优秀），中科院“青促会”和信工所“引进优青”人才项目2项，保密局战略研究项目子课题1项，作为核心骨干参与国家重点研发计划子课题和北京市局横向项目2项。
 ## 研究方向
 大规模机器学习，自动机器学习，隐私学习
 
@@ -16,6 +16,7 @@ author_profile: true
 
 ## 工作经历
 2020.8-至今，中国人民大学，副研究员，博导<br>
+2020.12-至今，东北石油大学，“客座教授”
 2018.10-2020.8，中国科学院信息工程研究所，副研究员，硕导<br>
 2016.7-2018.10，中国科学院信息工程研究所，助理研究员
 
@@ -36,14 +37,23 @@ author_profile: true
 * 中科院“青促会”人才项目，2019.02-2022.12
 
 ## 文章列表
+<b>[Sharper Generalization Bounds for Clustering]()</b> <br>
+Shaojie Li, <b>Yong Liu*</b>. <i>Proceedings of the 28th International Conference on Machine Learning (ICML), 2021</i> (accept, CCF A)
+
+<b>[Distributed Nystrom Kernel Learning with Communications]()</b> <br>
+Rong Yin, <b>Yong Liu</b>, Weiping Wang, Dan Meng. <i>Proceedings of the 28th International Conference on Machine Learning (ICML), 2021</i> (accept, CCF A)
+
+<b>[Weighted distributed differential privacy ERM: Convex and Non-convex]()</b> <br>
+Yilin Kang, <b>Yong Liu*</b>, Ben Niu, Weiping Wang. <i>Computers & Security</i> (accept, CCF B)
+
 <b>[Effective Distributed Learning with Random Features: Improved Bounds and Algorithms]()</b> <br>
-<b>Yong Liu</b>, Jiankun Liu, Shuqiang Wang, Weiping Wang. <i>ICLR 2021</i> (accept)
+<b>Yong Liu</b>, Jiankun Liu, Shuqiang Wang, Weiping Wang. <i>Proceedings of the 9th International Conference on Learning Representations, 2021</i> (accept)
 
 <b>[Extremely Sparse Johnson-Lindenstrauss Transform:From Theory to Algorithm]()</b> <br>
- Rong Ying, <b>Yong Liu*</b>, Weiping Wang,  Dan Meng. <i>ICDM 2020 </i> (accept, CCF B)
- 
+ Rong Ying, <b>Yong Liu*</b>, Weiping Wang,  Dan Meng. <i>Proceedings of the 20th IEEE International Conference on Data Mining(ICDM), 2020:1376-1381 </i> (CCF B)
+
 <b>[Nearly Optimal Risk Bounds for Kernel K-Means]()</b> <br>
-<b>Yong Liu</b>, Lizhong Ding, Weiping Wang. <i>ICML 2020 </i> (accept, CCF A)
+<b>Yong Liu</b>, Lizhong Ding, Weiping Wang. <i>ICML 2020</i> (CCF A)
 
 <b>[Fast Cross-Validation for Kernel-based Algorithms]()</b> <br>
 <b>Yong Liu</b>, Shizhong Liao, Shali Jiang, Lizhong Ding, Hailun Lin, Weiping Wang. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019, 42(5):1083-1096.</i> (CCF A， SCI Q1, Top)
