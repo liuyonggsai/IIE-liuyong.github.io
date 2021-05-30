@@ -19,7 +19,7 @@ Yilin Kang, <b>Yong Liu*</b>, Ben Niu, Weiping Wang. <i>Computers & Security</i>
  Rong Ying, <b>Yong Liu*</b>, Weiping Wang,  Dan Meng. <i>Proceedings of the 20th IEEE International Conference on Data Mining(ICDM), 2020:1376-1381 </i> (CCF B)
 
 <b>[Nearly Optimal Risk Bounds for Kernel K-Means]()</b> <br>
-<b>Yong Liu</b>, Lizhong Ding, Weiping Wang. <i>ICML 2020</i> (accept, CCF A)
+<b>Yong Liu</b>, Lizhong Ding, Weiping Wang. <i>ICML 2020</i> (CCF A)
 
 <b>[Fast Cross-Validation for Kernel-based Algorithms]()</b> <br>
 <b>Yong Liu</b>, Shizhong Liao, Shali Jiang, Lizhong Ding, Hailun Lin, Weiping Wang. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019, 42(5):1083-1096.</i> (CCF A， SCI Q1, Top)
