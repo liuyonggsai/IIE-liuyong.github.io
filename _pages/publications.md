@@ -3,6 +3,9 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+<b>[General Approximate Cross Validation for Model Selection: Supervised, Semi-supervised and Pairwise Learning]()</b> <br>
+Bowei Zhu, <b>Yong Liu*</b>. <i>ACM MM, 2021</i> (accept, CCF A)
+ 
 <b>[Sharper Generalization Bounds for Clustering]()</b> <br>
 Shaojie Li, <b>Yong Liu*</b>. <i>Proceedings of the 28th International Conference on Machine Learning (ICML), 2021</i> (accept, CCF A)
 
