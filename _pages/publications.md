@@ -3,6 +3,45 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+<b>[Sharper Generalization Bounds for Clustering]()</b> <br>
+Shaojie Li, <b>Yong Liu*</b>. <i>In ICML, 2021</i>
+
+<b>[Effective Distributed Learning with Random Features: Improved Bounds and Algorithms]()</b> <br>
+<b>Yong Liu*</b> iankun Liu, Shuqiang Wang. <i>In ICLR, 2021</i>
+
+<b>[Extremely sparse Johnson- Lindenstrauss transform: From Theory to Algorithm]()</b> <br>
+Rong Yin, <b>Yong Liu*</b>, Weiping Wang, Dang Men.  <i>In ICDM，2020</i>
+
+<b>[Sketch Kernel Ridge Regression using Circulant Matrix: Algorithm and Theory]()</b> <br>
+Rong Yin, <b>Yong Liu*</b>, Weiping Wang.  <i>IEEE Transactions on Neural Networks and Learning Systems, 2020</i>
+
+<b>[Automated Spectral Kernel Learning]()</b> <br>
+Jian Li, <b>Yong Liu*</b>, Weiping Wang.  <i>In AAAI, 2020</i>
+
+<b>[Divide-and-Conquer Learning with Nystrom: Optimal Rate and Algorithm]()</b> <br>
+Rong Yin, <b>Yong Liu*</b>, Lijing Lu, Weiping Wang, Dan Meng.  <i>In AAAI, 2020</i>
+
+<b>[Fast Cross-Validation for Kernel-based Algorithms]()</b> <br>
+ <b>Yong Liu*</b>, Shizhong Liao, Shali Jiang, Lizhong Ding, Hailun Lin, Weiping Wang.  <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019</i>
+
+<b>[Kernel Stability for Model Selection in Kernel-based Algorithms]()</b> <br>
+ <b>Yong Liu*</b>, Shizhong Liao, Hua Zhang. <i>IEEE Transactions on Cybernetics, 2019 </i>
+
+<b>[Learning Structural Representations via Dynamic Object Landmarks Discovery for Sketch Recognition and Retrieval]()</b> <br>
+Hua Zhang, Peng She, <b>Yong Liu</b>, Jianhou Gan, Xiaochun Cao, Hassan Foroosh.  <i>In IEEE TIP, 2019</i>
+
+<b>[Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis]()</b> <br>
+Jian Li, <b>Yong Liu*</b>, Rong Yin.  <i>In IJCAI, 2019</i>
+
+<b>[Multi-Class Learning using Unlabeled Samples: Theory and Algorithm]()</b> <br>
+Jian Li, <b>Yong Liu*</b>, Rong Yin , Weiping Wang. <i>In IJCAI, 2019</i>
+
+<b>[Two Generator Game: Learning to Sample via Linear Goodness-of-Fit Test]()</b> <br>
+Lizhong Ding, Mengyang Yu, Li Liu, Fan Zhu, <b>Yong Liu</b>, Yu Li, Ling Shao. <i>In NeurIPS, 2019</i>
+
+<b>[Randomized Kernel Selection With Spectra of Multilevel Circulant Matrices]()</b> <br>
+Lizhong Ding, Shizhong Liao, <b>Yong Liu</b>, Peng Yang, Xin Gao. <i>In AAAI, 2018</i>
+
 <b>[Max-Diversity Distributed Learning: Theory and Algorithms]()</b> <br>
 <b>Yong Liu</b>, Jian Li, Weiping Wang. <i>arXiv, 2018.</i>
 
