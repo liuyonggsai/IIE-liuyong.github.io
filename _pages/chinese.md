@@ -4,7 +4,7 @@ title: "中文简介"
 permalink: /chinese/
 author_profile: true
 ---
-### 刘勇 男 副教授，博导， 中国人民大学高瓴人工智能学院
+### 刘勇 男，副教授，博导， 中国人民大学高瓴人工智能学院
 ### 电子邮箱：liuyonggsai@ruc.edu.cn
 
 ## 研究方向
