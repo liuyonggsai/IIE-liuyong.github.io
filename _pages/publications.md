@@ -3,6 +3,8 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+<b>---------2022---------</b>
+
 <b>[Non-IID Distributed Learning with Optimal Mixture Weights]()</b> <br>
 Jian Li, Xuanyu Zhu, <b>Yong Liu*</b>.  <i>In ECML, 2022</i>
 
@@ -29,6 +31,8 @@ Shaojie Li, <b>Yong Liu*</b>.  <i>In ICLR, 2022</i>
 
 <b>[Distributed Randomized Sketching Kernel Learning]()</b> <br>
 Rong Yin, <b>Yong Liu*</b>, Dang Men.   <i>In AAAI, 2022</i>
+
+<b>---------2021---------</b>
 
 <b>[Improved Learning Rates of a Functional Lasso-type SVM with Sparse Multi-Kernel Representation]()</b> <br>
 Shaogao lv, Junhui Wang, Jiankun Liu, <b>Yong Liu*</b>.  <i>In NeurIPS, 2021</i>
@@ -60,6 +64,8 @@ Shaojie Li, <b>Yong Liu*</b>. <i>In ICML, 2021</i>
 <b>[Effective Distributed Learning with Random Features: Improved Bounds and Algorithms]()</b> <br>
 <b>Yong Liu*</b> iankun Liu, Shuqiang Wang. <i>In ICLR, 2021</i>
 
+<b>---------2020---------</b>
+
 <b>[Extremely sparse Johnson- Lindenstrauss transform: From Theory to Algorithm]()</b> <br>
 Rong Yin, <b>Yong Liu*</b>, Weiping Wang, Dang Men.  <i>In ICDM，2020</i>
 
@@ -74,6 +80,8 @@ Rong Yin, <b>Yong Liu*</b>, Lijing Lu, Weiping Wang, Dan Meng.  <i>In AAAI, 2020
 
 <b>[Fast Cross-Validation for Kernel-based Algorithms]()</b> <br>
  <b>Yong Liu*</b>, Shizhong Liao, Shali Jiang, Lizhong Ding, Hailun Lin, Weiping Wang.  <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019</i>
+
+<b>---------2019---------</b>
 
 <b>[Kernel Stability for Model Selection in Kernel-based Algorithms]()</b> <br>
  <b>Yong Liu*</b>, Shizhong Liao, Hua Zhang. <i>IEEE Transactions on Cybernetics, 2019 </i>
@@ -90,6 +98,8 @@ Jian Li, <b>Yong Liu*</b>, Rong Yin , Weiping Wang. <i>In IJCAI, 2019</i>
 <b>[Two Generator Game: Learning to Sample via Linear Goodness-of-Fit Test]()</b> <br>
 Lizhong Ding, Mengyang Yu, Li Liu, Fan Zhu, <b>Yong Liu</b>, Yu Li, Ling Shao. <i>In NeurIPS, 2019</i>
 
+<b>---------2018---------</b>
+
 <b>[Randomized Kernel Selection With Spectra of Multilevel Circulant Matrices]()</b> <br>
 Lizhong Ding, Shizhong Liao, <b>Yong Liu</b>, Peng Yang, Xin Gao. <i>In AAAI, 2018</i>
 
@@ -98,6 +108,8 @@ Lizhong Ding, Shizhong Liao, <b>Yong Liu</b>, Peng Yang, Xin Gao. <i>In AAAI, 20
 
 <b>[Multi-Class Learning: From Theory to Algorithm](http://liuyonggsai.github.io/files/nips2018-mc.pdf)</b> <br>
 Jian Li, <b>Yong Liu*</b>, Rong Yin, Hua Zhang, Li-zhong Ding, Weiping Wang. <i>Advances in Neural Information Processing Systems 31 (NIPS), 2018, accept</i>.
+
+<b>---------2017---------</b>
 
 <b>[Fast Cross-Validation](http://liuyonggsai.github.io/files/IJCAI2018-fcv.pdf)</b><br>
 <b>Yong Liu</b>, Hailun Lin, Lizhong Ding, Weiping Wang, Shizhong Liao. <i>Proceedings of the 27th International Joint Conference on Artificial Intelligence (IJCAI), 2910-2917, 2018</i>
@@ -111,8 +123,12 @@ Jian Li, <b>Yong Liu*</b>, Rong Yin, Hua Zhang, Li-zhong Ding, Weiping Wang. <i>
 <b>[Efficient Kernel Selection via Spectral Analysis](http://liuyonggsai.github.io/files/ijcai2017-sm.pdf)</b><br>
 Jian Li, <b>Yong Liu*</b>, Hailun Lin, Yinliang Yue, Weiping Wang. <i>Procedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI), 2124-2130, 2017</i>.
 
+<b>---------2015---------</b>
+
 <b>[Eigenvalues Ratio for Kernel Selection of Kernel Methods](http://liuyonggsai.github.io/files/aaai2015-kr.pdf)</b><br>
 <b>Yong Liu</b>, Shizhong Liao. <i>Proceedings of the 29th AAAI Conference on Artificial Intelligence (AAAI), 2814-2820, 2015</i>
+
+<b>---------2014---------</b>
 
 <b>[Efficient Approximation of Cross-Validation for Kernel Methods using Bouligand influence function](http://liuyonggsai.github.io/files/icml2014-bif.pdf)</b><br>
 <b>Yong Liu</b>, Shali Jiang, Shizhong Liao. <i>Proceedings of the 31st International Conference on Machine Learning (ICML), 324-332, 2014</i>
