@@ -43,55 +43,55 @@ author_profile: true
 * 大数据和人工智能发展现状及趋势，保密局战略研究项目子课题，40万，2017.9-2020.12，子课题负责人
 
 ## 文章列表
-<b>[Multi-Class Learning: From Theory to Algorithm](http://IIE-liuyong.github.io/files/nips2018-mc.pdf)</b> <br>
+<b>[Multi-Class Learning: From Theory to Algorithm](http://liuyonggsai.github.io/files/nips2018-mc.pdf)</b> <br>
 Jian Li, <b>Yong Liu*</b>, Rong Yin, Hua Zhang, Li-zhong Ding, Weiping Wang. <i>Advances in Neural Information Processing Systems 31 (NIPS), 2018, accept</i>.
 
-<b>[Fast Cross-Validation](http://IIE-liuyong.github.io/files/IJCAI2018-fcv.pdf)</b><br>
+<b>[Fast Cross-Validation](http://liuyonggsai.github.io/files/IJCAI2018-fcv.pdf)</b><br>
 <b>Yong Liu</b>, Hailun Lin, Lizhong Ding, Weiping Wang, Shizhong Liao. <i>Proceedings of the 27th International Joint Conference on Artificial Intelligence (IJCAI), 2910-2917, 2018</i>
 
-<b>[Generalization Analysis for Ranking Using Integral Operator](http://IIE-liuyong.github.io/files/aaai2017-ga.pdf)</b><br>
+<b>[Generalization Analysis for Ranking Using Integral Operator](http://liuyonggsai.github.io/files/aaai2017-ga.pdf)</b><br>
 <b>Yong Liu</b>, Shizhong Liao, Hailun Lin, Yinliang Yue, Weiping Wang. <i>Proceedings of the 31st AAAI Conference on Artificial Intelligence (AAAI), 2272-2279, 2017</i>
 
-<b>[Infinite Kernel Learning: Generalization Bounds and Algorithms](http://IIE-liuyong.github.io/files/aaai2017-ikl.pdf)</b><br>
+<b>[Infinite Kernel Learning: Generalization Bounds and Algorithms](http://liuyonggsai.github.io/files/aaai2017-ikl.pdf)</b><br>
 <b>Yong Liu</b>, Shizhong Liao, Hailun Lin, Yinliang Yue, Weiping Wang. <i>Proceedings of the 31st AAAI Conference on Artificial Intelligence (AAAI), 2280-2286, 2017</i>
 
-<b>[Efficient Kernel Selection via Spectral Analysis](http://IIE-liuyong.github.io/files/ijcai2017-sm.pdf)</b><br>
+<b>[Efficient Kernel Selection via Spectral Analysis](http://liuyonggsai.github.io/files/ijcai2017-sm.pdf)</b><br>
 Jian Li, <b>Yong Liu*</b>, Hailun Lin, Yinliang Yue, Weiping Wang. <i>Procedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI), 2124-2130, 2017</i>.
 
-<b>[Eigenvalues Ratio for Kernel Selection of Kernel Methods](IIE-liuyong.github.io/files/aaai2015-kr.pdf)</b><br>
+<b>[Eigenvalues Ratio for Kernel Selection of Kernel Methods](liuyonggsai.github.io/files/aaai2015-kr.pdf)</b><br>
 <b>Yong Liu</b>, Shizhong Liao. <i>Proceedings of the 29th AAAI Conference on Artificial Intelligence (AAAI), 2814-2820, 2015</i>
 
-<b>[Efficient Approximation of Cross-Validation for Kernel Methods using Bouligand influence function](IIE-liuyong.github.io/files/icml2014-bif.pdf)</b><br>
+<b>[Efficient Approximation of Cross-Validation for Kernel Methods using Bouligand influence function](liuyonggsai.github.io/files/icml2014-bif.pdf)</b><br>
 <b>Yong Liu</b>, Shali Jiang, Shizhong Liao. <i>Proceedings of the 31st International Conference on Machine Learning (ICML), 324-332, 2014</i>
 
-<b>[Approximate Kernel Selection with Strong Approximate Consistency](http://IIE-liuyong.github.io/files/aaai2019-aks.pdf)</b> <br>Lizhong Ding, <b>Yong Liu</b>, Shizhong Liao, Peng Yang, Yu Li, Yijie Pan, Chao Huang, Ling Shao, Xin Gao. <i> Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019, accept</i>.
+<b>[Approximate Kernel Selection with Strong Approximate Consistency](http://liuyonggsai.github.io/files/aaai2019-aks.pdf)</b> <br>Lizhong Ding, <b>Yong Liu</b>, Shizhong Liao, Peng Yang, Yu Li, Yijie Pan, Chao Huang, Ling Shao, Xin Gao. <i> Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019, accept</i>.
 
-<b>[Linear Kernel Tests via Empirical Likelihood for High Dimensional Data](http://IIE-liuyong.github.io/files/aaai2019-lkt.pdf)</b> <br>Lizhong Ding, Zhi Liu, Yu Li, Shizhong Liao, <b>Yong Liu</b>, Peng Yang, Ge Yu, Ling Shao, Xin Gao. <i>Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019, accept</i>.
+<b>[Linear Kernel Tests via Empirical Likelihood for High Dimensional Data](http://liuyonggsai.github.io/files/aaai2019-lkt.pdf)</b> <br>Lizhong Ding, Zhi Liu, Yu Li, Shizhong Liao, <b>Yong Liu</b>, Peng Yang, Ge Yu, Ling Shao, Xin Gao. <i>Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI), 2019, accept</i>.
 
-<b>[Randomized Kernel Selection With Spectra of Multilevel Circulant Matrices](http://IIE-liuyong.github.io/files/AAAI2018-rks.pdf) </b><br> Li-Zhong Ding, Shizhong Liao, <b>Yong Liu</b>, Peng Yang, Xin Gao. <i>Proceedings of the 32nd AAAI Conference on Artificial Intelligence (AAAI), 2497-2503, 2018</i>
+<b>[Randomized Kernel Selection With Spectra of Multilevel Circulant Matrices](http://liuyonggsai.github.io/files/AAAI2018-rks.pdf) </b><br> Li-Zhong Ding, Shizhong Liao, <b>Yong Liu</b>, Peng Yang, Xin Gao. <i>Proceedings of the 32nd AAAI Conference on Artificial Intelligence (AAAI), 2497-2503, 2018</i>
 
-<b>[Granularity Selection for Cross-Validation of SVM](http://IIE-liuyong.github.io/files/IS2017-gs.pdf)</b><br>
+<b>[Granularity Selection for Cross-Validation of SVM](http://liuyonggsai.github.io/files/IS2017-gs.pdf)</b><br>
 <b>Yong Liu</b>, Shizhong Liao. <i>Information Sciences, 378:475-483, 2017</i>
 
-<b>[Learning Entity and Relation Embeddings for Knowledge Resolution](http://IIE-liuyong.github.io/files/PCS-le.pdf)</b><br>
+<b>[Learning Entity and Relation Embeddings for Knowledge Resolution](http://liuyonggsai.github.io/files/PCS-le.pdf)</b><br>
 Hailun Lin, <b>Yong Liu*</b>, Weiping Wang, Yinliang Yue, Zheng Lin. <i> Procedia Computer Science, 108:345-354, 2017</i>
 
-<b>[Preventing Over-Fitting of Cross-Validation with Kernel Stability](IIE-liuyong.github.io/files/ecml2014-ks.pdf)</b><br>
+<b>[Preventing Over-Fitting of Cross-Validation with Kernel Stability](liuyonggsai.github.io/files/ecml2014-ks.pdf)</b><br>
 <b>Yong Liu</b>, Shizhong Liao. <i>Proceedings of the Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML), 290-305, 2014</i>
 
-<b>[Kernel Selection with Spectral Perturbation Stability of Kernel Matrix](IIE-liuyong.github.io/files/scis-ks.pdf)</b><br>
+<b>[Kernel Selection with Spectral Perturbation Stability of Kernel Matrix](liuyonggsai.github.io/files/scis-ks.pdf)</b><br>
 <b>Yong Liu</b>, Shizhong Liao. <i>Science China Information Sciences 57(11):1-10, 2014</i>
 
-<b>[Error Analysis for Vector-Valued Regularized Least-Squares Algorithm](IIE-liuyong.github.io/files/ICAI-ea.pdf)</b><br>
+<b>[Error Analysis for Vector-Valued Regularized Least-Squares Algorithm](liuyonggsai.github.io/files/ICAI-ea.pdf)</b><br>
 <b>Yong Liu</b>, Shizhong Liao. <i>Proceedings on the International Conference on Artificial Intelligence (ICAI), 2014</i>
 
-<b>[Eigenvalues Perturbation of Integral Operator for Kernel Selection](IIE-liuyong.github.io/files/cikm2011-ep.pdf)</b><br>
+<b>[Eigenvalues Perturbation of Integral Operator for Kernel Selection](liuyonggsai.github.io/files/cikm2011-ep.pdf)</b><br>
 <b>Yong Liu</b>, Shali Jiang, Shizhong Liao. <i>Proceedings of the 22nd ACM international Conference on Information and Knowledge Management (CIKM), 2189-2198, 2013</i>
 
 <b>[An Explicit Description of the Extended Gaussian Kernel]()</b><br>
 <b>Yong Liu</b>, Shizhong Liao. <i>Proceedings of the Pacific-Asia Conference on Knowledge Discovery and Data Mining, 88-99, 2012</i> (<b>Best Paper</b>)
 
-<b>[Learning Kernels with Upper Bounds of Leave-One-Out error](IIE-liuyong.github.io/files/cikm2011-loo.pdf)</b><br>
+<b>[Learning Kernels with Upper Bounds of Leave-One-Out error](liuyonggsai.github.io/files/cikm2011-loo.pdf)</b><br>
 <b>Yong Liu</b>, Shizhong Liao, Yuexian Hou. <i>Proceedings of the 20th ACM international Conference on Information and Knowledge Management (CIKM), 2205-2208, 2011</i>
 
 <b>[An Error Bound for Eigenvalues of Graph Laplacian with Bounded Kernel Function]()</b><br>
@@ -100,10 +100,10 @@ Hailun Lin, <b>Yong Liu*</b>, Weiping Wang, Yinliang Yue, Zheng Lin. <i> Procedi
 <b>[Kernel Construction via Generalized Eigenvector Decomposition]()</b><br>
 <b>Yong Liu</b>, Shizhong Liao. <i>Foundations of Intelligent Systems, 191-200, 2011 </i>
 
-<b>[基于近似高斯核显式描述的大规模SVM求解](IIE-liuyong.github.io/files/yf-svm.pdf)</b><br>
+<b>[基于近似高斯核显式描述的大规模SVM求解](liuyonggsai.github.io/files/yf-svm.pdf)</b><br>
 <b>刘勇</b>, 江沙里, 廖士中. <i> 计算机研究与发展, 51(10):2171-2177, 2014</i>
 
-<b>[基于积分算子空间显式描述的框架核选择方法](IIE-liuyong.github.io/files/zgkx-fc.pdf)</b><br>
+<b>[基于积分算子空间显式描述的框架核选择方法](liuyonggsai.github.io/files/zgkx-fc.pdf)</b><br>
 <b>刘勇</b>, 廖士中. <i>中国科学:信息科学, 46(2):165-178, 2016</i>
 
 <b>[基于支持向量机泛化误差界的多核学习方法]()</b><br>

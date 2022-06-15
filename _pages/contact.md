@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Institute of Information Engineering, Chinese Academy of Sciences<br>
-89-A, Minzhuang Rd, Haidian District,
+Gaoling School of Artificial Intelligence, Renmin University of China<br>
+No.59, Zhongguancun Street, Haidian District,
 Beijing, 100093, China<br>
-Email: liuyong [at] iie.ac.cn
+Email: liuyonggsai [at] ruc.edu.cn
