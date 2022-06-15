@@ -14,7 +14,7 @@ redirect_from:
 
 * I received my Bachelor's in Hebei University of Technology, 2009, Tianjin, China; I received my Master's and Ph.D Degrees in Tianjin University, 2016, Tianjin, China; I am currently an associate professorr at Gaoling School of Artificial Intelligence, Renmin University of China.
 
-* My research interests lie in the general area of machine learning, particularly in large scale machine learning, kernel method and model selection.
+* My research interests lie in the general area of machine learning, particularly in large-scale machine learning, statistical machine learning theory, etc.
 
 # Recent News
 * June 15, 2022. A paper titled "Non-IID Distributed Learning with Optimal Mixture Weights" is accepted in ECML 2022.
