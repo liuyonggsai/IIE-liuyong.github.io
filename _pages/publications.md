@@ -3,14 +3,32 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-<b>[]()</b> <br>
-<b>Yong Liu*</b>  <i></i>
+<b>[Non-IID Distributed Learning with Optimal Mixture Weights]()</b> <br>
+Jian Li, Xuanyu Zhu, <b>Yong Liu*</b>.  <i>In ECML, 2022</i>
 
-<b>[]()</b> <br>
-<b>Yong Liu*</b>  <i></i>
+<b>[High Probability Guarantees for Nonconvex Stochastic Gradient Descent with Heavy Tails]()</b> <br>
+Shaojie Li, <b>Yong Liu*</b>.  <i>In ICML, 2022</i>
 
-<b>[]()</b> <br>
-<b>Yong Liu*</b>  <i></i>
+<b>[Deep Safe Incomplete Multi-view Clustering: Theorem and Algorithm]()</b> <br>
+Huayi Tang, <b>Yong Liu*</b>.  <i>In ICML, 2022</i>
+
+<b>[Understanding the Generalization Performance of Spectral Clustering Algorithms]()</b> <br>
+Shaojie Li, Sheng Ouyang, <b>Yong Liu*</b>.  <i>In IJCAI, 2022</i>
+
+<b>[Optimal Rates for Distributed Learning with Random Features]()</b> <br>
+Jian Li, <b>Yong Liu*</b>.  <i>In IJCAI, 2022</i>
+
+<b>[Ridgeless Regression with Random Features]()</b> <br>
+Jian Li , <b>Yong Liu*</b>, Yingying Zhang.   <i>In IJCAI, 2022</i>
+
+<b>[Deep Safe Multi-view Clustering: Reducing the Risk of Clustering Performance Degradation Caused by View Increase]()</b> <br>
+Huayi Tang, <b>Yong Liu*</b>.  <i>In CVPR, 2022</i>
+
+<b>[High Probability Generalization Bounds for Minimax Problems with Fast Rates]()</b> <br>
+Shaojie Li, <b>Yong Liu*</b>.  <i>In ICLR, 2022</i>
+
+<b>[Distributed Randomized Sketching Kernel Learning]()</b> <br>
+Rong Yin, <b>Yong Liu*</b>, Dang Men.   <i>In AAAI, 2022</i>
 
 <b>[Improved Learning Rates of a Functional Lasso-type SVM with Sparse Multi-Kernel Representation]()</b> <br>
 Shaogao lv, Junhui Wang, Jiankun Liu, <b>Yong Liu*</b>.  <i>In NeurIPS, 2021</i>
