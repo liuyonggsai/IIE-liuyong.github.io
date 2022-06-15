@@ -4,7 +4,7 @@ title: "中文简介"
 permalink: /chinese/
 author_profile: true
 ---
-### 刘勇 男 助理研究员 中国科学院信息工程研究所
+### 刘勇 男 研究员 中国科学院信息工程研究所
 ### 电子邮箱：liuyong@iie.ac.cn
 
 ## 研究方向
