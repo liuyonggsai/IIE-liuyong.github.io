@@ -3,6 +3,39 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+<b>[]()</b> <br>
+<b>Yong Liu*</b>  <i></i>
+
+<b>[]()</b> <br>
+<b>Yong Liu*</b>  <i></i>
+
+<b>[]()</b> <br>
+<b>Yong Liu*</b>  <i></i>
+
+<b>[Improved Learning Rates of a Functional Lasso-type SVM with Sparse Multi-Kernel Representation]()</b> <br>
+Shaogao lv, Junhui Wang, Jiankun Liu, <b>Yong Liu*</b>.  <i>In NeurIPS, 2021</i>
+
+<b>[Towards Sharper Generalization Bounds for Structured Prediction]()</b> <br>
+Shaojie Li, <b>Yong Liu*</b>.  <i>In NeurIPS, 2021</i>
+
+<b>[Refined Learning Bounds for Kernel and Approximate kmeans]()</b> <br>
+<b>Yong Liu*</b>.  <i>In NeurIPS, 2021</i>
+
+<b>[Operation-level Progressive Differentiable Architecture Search]()</b> <br>
+Xunyu Zhu, Jian Li,  <b>Yong Liu*</b>, Weiping Wang.  <i>In ICDM, 2021</i>
+
+<b>[Federated Learning for Non-IID Data: From Theory to Algorithm (Best Student Paper)]()</b> <br>
+Bojian Wei, Jian Li, <b>Yong Liu*</b>, Weiping Wang.   <i>In PRICAI, 2021</i>
+
+<b>[General Approximate Cross Validation for Model Selection: Supervised, Semi-supervised and Pairwise Learning]()</b> <br>
+Bowei Zhu, <b>Yong Liu*</b>.  <i>In ACM MM, 2021</i>
+
+<b>[Weighted Distributed Differential Privacy ERM: Convex and Non-convex]()</b> <br>
+Yilin Kang, <b>Yong Liu*</b>, Ben Niu, Weiping Wang.   <i> Computers & Security, 2021</i>
+
+<b>[Distributed Nystrom Kernel Learning with Communications]()</b> <br>
+Rong Yin, <b>Yong Liu</b>, Weiping Wang, Dan Meng.   <i>In ICML, 2021</i>
+
 <b>[Sharper Generalization Bounds for Clustering]()</b> <br>
 Shaojie Li, <b>Yong Liu*</b>. <i>In ICML, 2021</i>
 
