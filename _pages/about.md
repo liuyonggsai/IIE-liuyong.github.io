@@ -17,9 +17,7 @@ redirect_from:
 * My research interests lie in the general area of machine learning, particularly in large scale machine learning, kernel method and model selection.
 
 # Recent News
-* Dec dd
-* Dec 25, 2018. A paper titled "Max-Diversity Distributed Learning: Theory and Algorithms" was submitted to arXiv, 2018.
-* Nov 1, 2018. A paper titled "Approximate Kernel Selection with Strong Approximate Consistency" was accepted at [AAAI 2019](https://aaai.org/Conferences/AAAI-19/).
-* Nov 1, 2018. A paper titled "Linear Kernel Tests via Empirical Likelihood for High Dimensional Data" was accepted at [AAAI 2019](https://aaai.org/Conferences/AAAI-19/).
-* Sep 5, 2018. A paper titled "Multi-Class Learning: From Theory to Algorithm" was accepted at [NIPS 2018](https://nips.cc/Conferences/2018).
-* Jan 20, 2018. A paper titled "Fast Cross Validation" was accepted at [IJCAI 2018](http://www.ijcai-18.org/).
+* June 15, 2022. A paper titled "Non-IID Distributed Learning with Optimal Mixture Weights" is accepted in ECML 2022.
+* Fri 5, 2022. Two paper titled "High Probability Guarantees for Nonconvex Stochastic Gradient Descent with Heavy Tails" and "Deep Safe Incomplete Multi-view Clustering: Theorem and Algorithm" are accepted in ICML 2022.
+
+
