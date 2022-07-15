@@ -14,11 +14,6 @@ Shaojie Li, <b>Yong Liu*</b>.  <i>In ICML, 2022</i>
 <b>[Deep Safe Incomplete Multi-view Clustering: Theorem and Algorithm]()</b> <br>
 Huayi Tang, <b>Yong Liu*</b>.  <i>In ICML, 2022</i>
 
-<b>[Understanding the Generalization Performance of Spectral Clustering Algorithms]()</b> <br>
-Shaojie Li, Sheng Ouyang, <b>Yong Liu*</b>.  <i>In IJCAI, 2022</i>
-
-<b>[Optimal Rates for Distributed Learning with Random Features]()</b> <br>
-Jian Li, <b>Yong Liu*</b>.  <i>In IJCAI, 2022</i>
 
 <b>[Ridgeless Regression with Random Features]()</b> <br>
 Jian Li , <b>Yong Liu*</b>, Yingying Zhang.   <i>In IJCAI, 2022</i>
